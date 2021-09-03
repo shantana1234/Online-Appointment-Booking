@@ -1,0 +1,9 @@
+{
+    "name": "hp/project",
+    "description": "twilio Demo SMS sender",
+    "type": "project",
+    "require": {
+        "twilio/sdk": "^5.19"
+    },
+    "license": "common"
+}
